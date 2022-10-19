@@ -1,4 +1,5 @@
-# lab365Senai_java_aula_2
+# Repositório da aula ministrada para a turma do DevInHouse na CLAMED.
 
-POO - Herança e Polimorfismo
-Sobrescrita e final class
+POO - Herança, Polimorfismo, Sobrescrita e final class.
+
+Autor: Prof. Ms. Rafael Sanches.
