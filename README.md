@@ -2,4 +2,3 @@
 
 POO - Herança, Polimorfismo, Sobrescrita e final class.
 
-Autor: Prof. Ms. Rafael Sanches.
